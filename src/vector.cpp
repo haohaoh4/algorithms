@@ -1,4 +1,3 @@
-#include <cstring>
 template <class type> class vector
 {
 private: 
